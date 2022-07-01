@@ -1,0 +1,6 @@
+framework:
+    mailer:
+        dsn: '%env(MAILER_DSN)%'
+
+# Ajout des 3 Champs isActivate , 
+# Creation  
